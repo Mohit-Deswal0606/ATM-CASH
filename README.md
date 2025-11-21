@@ -1,4 +1,4 @@
-## ATM-CASH
+##  💵 ATM-CASH 
 ## 🏦 ATM System in Python
 
 A simple ATM (Automated Teller Machine) simulation written in Python.
@@ -25,7 +25,7 @@ The program includes input validation, error handling, and a modular structure.
 
 ---
 ## 📦 Installation & Usage
-## 1️⃣ Clone the Repository
+##  🔄Clone the Repository
 ```bash
 git clone https://github.com/Mohit-Deswal0606/ATM-CASH.git
 ```
